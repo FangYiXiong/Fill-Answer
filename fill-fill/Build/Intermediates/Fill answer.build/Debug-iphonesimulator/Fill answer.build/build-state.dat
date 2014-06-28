@@ -1,0 +1,72 @@
+TFill answer
+v7
+r1
+cCheck dependencies
+
+CBuild AST from /Users/Fang/Desktop/ZH\ Development/Fill\ answer/onegame/AppDelegate.m
+r0
+
+CBuild AST from /Users/Fang/Desktop/ZH\ Development/Fill\ answer/onegame/GameOverScene.m
+r0
+
+CBuild AST from /Users/Fang/Desktop/ZH\ Development/Fill\ answer/onegame/GetData.m
+r0
+
+CBuild AST from /Users/Fang/Desktop/ZH\ Development/Fill\ answer/onegame/MyScene.m
+r0
+
+CBuild AST from /Users/Fang/Desktop/ZH\ Development/Fill\ answer/onegame/ViewController.m
+r0
+
+CBuild AST from /Users/Fang/Desktop/ZH\ Development/Fill\ answer/onegame/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies7b88aaa3b05db941^7bbcb8a5b05db941^---0#1#1#--18"Check dependencies36"C7E97FC3-6C94-4C15-9600-F8CAA2C1343A-
+
+CCompileAssetCatalog /Users/Fang/Desktop/ZH\ Development/Fill\ answer/Build/Products/Debug-iphonesimulator/Fill\ answer.app /Users/Fang/Desktop/ZH\ Development/Fill\ answer/onegame/Images.xcassets
+r0
+
+CCompileC Build/Intermediates/Fill\ answer.build/Debug-iphonesimulator/Fill\ answer.build/Objects-normal/i386/AppDelegate.o /Users/Fang/Desktop/ZH\ Development/Fill\ answer/onegame/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/Fill\ answer.build/Debug-iphonesimulator/Fill\ answer.build/Objects-normal/i386/GameOverScene.o /Users/Fang/Desktop/ZH\ Development/Fill\ answer/onegame/GameOverScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/Fill\ answer.build/Debug-iphonesimulator/Fill\ answer.build/Objects-normal/i386/GetData.o /Users/Fang/Desktop/ZH\ Development/Fill\ answer/onegame/GetData.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/Fill\ answer.build/Debug-iphonesimulator/Fill\ answer.build/Objects-normal/i386/MyScene.o /Users/Fang/Desktop/ZH\ Development/Fill\ answer/onegame/MyScene.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/Fill\ answer.build/Debug-iphonesimulator/Fill\ answer.build/Objects-normal/i386/ViewController.o /Users/Fang/Desktop/ZH\ Development/Fill\ answer/onegame/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/Fill\ answer.build/Debug-iphonesimulator/Fill\ answer.build/Objects-normal/i386/main.o /Users/Fang/Desktop/ZH\ Development/Fill\ answer/onegame/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileStoryboard /Users/Fang/Desktop/ZH\ Development/Fill\ answer/onegame/Base.lproj/Main.storyboard
+r0
+
+CCopyStringsFile /Users/Fang/Desktop/ZH\ Development/Fill\ answer/Build/Products/Debug-iphonesimulator/Fill\ answer.app/en.lproj/InfoPlist.strings onegame/en.lproj/InfoPlist.strings
+r0
+
+CGenerateDSYMFile /Users/Fang/Desktop/ZH\ Development/Fill\ answer/Build/Products/Debug-iphonesimulator/Fill\ answer.app.dSYM /Users/Fang/Desktop/ZH\ Development/Fill\ answer/Build/Products/Debug-iphonesimulator/Fill\ answer.app/Fill\ answer
+r0
+
+CLd /Users/Fang/Desktop/ZH\ Development/Fill\ answer/Build/Products/Debug-iphonesimulator/Fill\ answer.app/Fill\ answer normal i386
+r0
+
+CProcessInfoPlistFile /Users/Fang/Desktop/ZH\ Development/Fill\ answer/Build/Products/Debug-iphonesimulator/Fill\ answer.app/Info.plist /Users/Fang/Desktop/ZH\ Development/Fill\ answer/onegame/Fill\ answer-Info.plist
+r0
+
+CProcessPCH /Users/Fang/Desktop/ZH\ Development/Fill\ answer/Build/Intermediates/PrecompiledHeaders/Fill\ answer-Prefix-ffijwyhbhucbuphdsicqkhhuptdr/Fill\ answer-Prefix.pch.pch onegame/Fill\ answer-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /Users/Fang/Library/Developer/Xcode/DerivedData/Fill_answer-gojulhsqwuzgdnahutweurikzkqu/Index/PrecompiledHeaders/Fill\ answer-Prefix-hceksicxxwqurkfouenwotrctzhg_ast/Fill\ answer-Prefix.pch.pch onegame/Fill\ answer-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/Fang/Desktop/ZH\ Development/Fill\ answer/Build/Products/Debug-iphonesimulator/Fill\ answer.app
+r0
+
