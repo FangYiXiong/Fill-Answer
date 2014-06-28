@@ -1,0 +1,519 @@
+TFill answer
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/Fill\ answer.app/ResourceRules.plist
+cProcessPCH /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/PrecompiledHeaders/Fill\ answer-Prefix-cmluuoakglfgqzdvfrvtsasquqhf/Fill\ answer-Prefix.pch.pch onegame/Fill\ answer-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/GameOverScene.o /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/GameOverScene.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/MyScene.o /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/MyScene.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/GetData.o /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/GetData.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/ViewController.o /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/AppDelegate.o /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/main.o /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app/Fill\ answer normal armv7
+cCopyStringsFile /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app/en.lproj/InfoPlist.strings onegame/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Images.xcassets
+cProcessInfoPlistFile /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app/Info.plist /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Fill\ answer-Info.plist
+cGenerateDSYMFile /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app.dSYM /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app/Fill\ answer
+cProcessProductPackaging /Users/Fang/Library/MobileDevice/Provisioning\ Profiles/E7C3E34D-7C90-491A-B6FB-200D7FD02F6C.mobileprovision /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app/embedded.mobileprovision
+cTouch /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer.xcent
+cCodeSign /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c00000000534D53A10000000000000132
+t1397576609
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+c000000005326B02D0000000000000094
+t1395044397
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c000000005326B02D0000000000000096
+t1395044397
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c000000005326B02D000000000000036B
+t1395044397
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005326B02E000000000000019E
+t1395044398
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534D536D00000000004D7BC0
+t1397576557
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005326B0310000000000A90C10
+t1395044401
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/SpriteKit.framework/SpriteKit
+c000000005326B0340000000000312240
+t1395044404
+s3220032
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005326B0390000000002759920
+t1395044409
+s41261344
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005326B0DF0000000000000ADC
+t1395044575
+s2780
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/Fill answer.xcent
+t1403939803
+s414
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/Objects-normal/armv7/AppDelegate.o
+t1403939801
+s61744
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/Objects-normal/armv7/Fill answer.LinkFileList
+c0000000053AE6BD9000000000000036E
+t1403939801
+s878
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/Objects-normal/armv7/GameOverScene.o
+t1403939801
+s56672
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/Objects-normal/armv7/GetData.o
+t1403939801
+s8708
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/Objects-normal/armv7/MyScene.o
+t1403939801
+s87156
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/Objects-normal/armv7/ViewController.o
+t1403939801
+s45492
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/Objects-normal/armv7/main.o
+t1403939801
+s3788
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/assetcatalog_dependencies.txt
+t1403939803
+s705
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/assetcatalog_generated_info.plist
+t1403939803
+s777
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/PrecompiledHeaders/Fill answer-Prefix-cmluuoakglfgqzdvfrvtsasquqhf/Fill answer-Prefix.pch.pch
+t1403939801
+s93984
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app
+t1403939803
+s476
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app.dSYM
+t2
+s0
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app/Base.lproj/Main.storyboardc
+t1403939803
+s170
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app/Fill answer
+t1403939801
+s80136
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app/Info.plist
+t1403939803
+s1417
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app/PkgInfo
+t1403939803
+s8
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app/ResourceRules.plist
+t1403939801
+s150
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app/embedded.mobileprovision
+t1403939803
+s8046
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app/en.lproj/InfoPlist.strings
+t1403939801
+s42
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/AppDelegate.m
+c0000000053AE6AF500000000000007D1
+t1403939573
+s2001
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Base.lproj/Main.storyboard
+c0000000053AE6AF5000000000000062F
+t1403939573
+s1583
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Fill answer-Info.plist
+c0000000053AE6AF500000000000004BA
+t1403939573
+s1210
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Fill answer-Prefix.pch
+c0000000053AE6AF50000000000000158
+t1403939573
+s344
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/GameOverScene.m
+c0000000053AE6BD90000000000000B61
+t1403939801
+s2913
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/GetData.m
+c0000000053AE6AF5000000000000018E
+t1403939573
+s398
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Images.xcassets
+c0000000053AE6AF50000000000000088
+t1403939573
+s136
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/MyScene.m
+c0000000053AE6BAB0000000000001CB5
+t1403939755
+s7349
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/ViewController.m
+c0000000053AE6AF50000000000000450
+t1403939573
+s1104
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/en.lproj/InfoPlist.strings
+c0000000053AE6AF5000000000000002D
+t1403939573
+s45
+
+N/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/main.m
+c0000000053AE6AF5000000000000014B
+t1403939573
+s331
+
+N/Users/Fang/Library/MobileDevice/Provisioning Profiles/E7C3E34D-7C90-491A-B6FB-200D7FD02F6C.mobileprovision
+c00000000538458460000000000001F6E
+t1401182278
+s8046
+
+CBuild AST from /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/AppDelegate.m
+r0
+
+CBuild AST from /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/GameOverScene.m
+r0
+
+CBuild AST from /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/GetData.m
+r0
+
+CBuild AST from /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/MyScene.m
+r0
+
+CBuild AST from /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/ViewController.m
+r0
+
+CBuild AST from /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies06479159a35eb941^c26aa459a35eb941^---0#1#1#--18"Check dependencies36"3830B252-F779-4847-940F-ABB8D24E51A2-
+
+CCodeSign /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app
+s425632603.263484
+e425632603.386193
+r1
+xCodeSign
+x/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"CodeSign Build/Products/Debug-iphoneos/Fill\ answer.app55"CodeSign Build/Products/Debug-iphoneos/Fill\ answer.app1f85435ba35eb941^76de625ba35eb941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill%20answer.app/0000000000000000^1015"CodeSign Build/Products/Debug-iphoneos/Fill\ answer.app    cd /Users/Fang/Desktop/Fill-Answer/fill-fill    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: Xibing Liu (E74S2548Y5)" and provisioning profile "EMO" (E7C3E34D-7C90-491A-B6FB-200D7FD02F6C)    /usr/bin/codesign --force --sign 79A3DE50A3B35C8CAE567BF36E211071C12578CB --resource-rules=/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app/ResourceRules.plist --entitlements /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer.xcent /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app36"82793478-A86E-487D-B8D0-818139160E8E-
+b02ED822B-0F2C-4CC9-83AE-695E01937E53
+
+CCompileAssetCatalog /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Images.xcassets
+s425632601.960006
+e425632603.212676
+r1
+xCompileAssetCatalog
+x/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app
+x/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Images.xcassets
+o/* com.apple.actool.document.warnings */
+o/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Images.xcassets:./LaunchImage.launchimage/[iphone][][2x][portrait][full-screen][7.0]: warning: The file "pic.png" for the image set "LaunchImage" does not exist.
+o/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Images.xcassets:./LaunchImage.launchimage/[iphone][retina4][2x][portrait][full-screen][7.0]: warning: The file "pic-1.png" for the image set "LaunchImage" does not exist.
+o/* com.apple.actool.compilation-results */
+o/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app/AppIcon29x29@2x.png
+o/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app/AppIcon40x40@2x.png
+o/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app/AppIcon60x60@2x.png
+o/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app/LaunchImage-700-568h@2x.png
+o/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app/Assets.car
+o/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"CompileAssetCatalog Build/Products/Debug-iphoneos/Fill\ answer.app onegame/Images.xcassets90"CompileAssetCatalog Build/Products/Debug-iphoneos/Fill\ answer.app onegame/Images.xcassets4b04f659a35eb941^6572365ba35eb941^-1204"/* com.apple.actool.document.warnings *//Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Images.xcassets:./LaunchImage.launchimage/[iphone][][2x][portrait][full-screen][7.0]: warning: The file "pic.png" for the image set "LaunchImage" does not exist./Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Images.xcassets:./LaunchImage.launchimage/[iphone][retina4][2x][portrait][full-screen][7.0]: warning: The file "pic-1.png" for the image set "LaunchImage" does not exist./* com.apple.actool.compilation-results *//Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app/AppIcon29x29@2x.png/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app/AppIcon40x40@2x.png/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app/AppIcon60x60@2x.png/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app/LaunchImage-700-568h@2x.png/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app/Assets.car/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/assetcatalog_generated_info.plist2(21%IDEActivityLogMessage2@66"The file "pic.png" for the image set "LaunchImage" does not exist.-425632603#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@73"file:///Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--2@68"The file "pic-1.png" for the image set "LaunchImage" does not exist.-425632603#18446744073709551615#0#-1#-3@73"file:///Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--0#0#1#-19%DVTDocumentLocation4@73"file:///Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Images.xcassets/0000000000000000^1096"CompileAssetCatalog Build/Products/Debug-iphoneos/Fill\ answer.app onegame/Images.xcassets    cd /Users/Fang/Desktop/Fill-Answer/fill-fill    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Images.xcassets36"162C2CB7-2744-484B-9F4B-C7B0447B676E-
+b02ED822B-0F2C-4CC9-83AE-695E01937E53
+
+CCompileC Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/AppDelegate.o /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425632601.772880
+e425632601.888343
+r1
+xCompileC
+xBuild/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/Objects-normal/armv7/AppDelegate.o
+x/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/AppDelegate.m
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/AppDelegate.m207"CompileC Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/AppDelegate.o onegame/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler87fac559a35eb941^058be359a35eb941^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/AppDelegate.m0000000000000000^3637"CompileC Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/AppDelegate.o onegame/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Fang/Desktop/Fill-Answer/fill-fill    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Fang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-generated-files.hmap -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-own-target-headers.hmap -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-all-target-headers.hmap -iquote /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-project-headers.hmap -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/DerivedSources/armv7 -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/DerivedSources -F/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos -include /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/PrecompiledHeaders/Fill\ answer-Prefix-cmluuoakglfgqzdvfrvtsasquqhf/Fill\ answer-Prefix.pch -MMD -MT dependencies -MF /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/AppDelegate.dia -c /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/AppDelegate.m -o /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/AppDelegate.o36"1DCC3D13-8F60-4BB1-B0A6-19DEC17FBCB3-
+b02ED822B-0F2C-4CC9-83AE-695E01937E53
+
+CCompileC Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/GameOverScene.o /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/GameOverScene.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425632601.704972
+e425632601.873128
+r1
+xCompileC
+xBuild/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/Objects-normal/armv7/GameOverScene.o
+x/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/GameOverScene.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/GameOverScene.m
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/GameOverScene.h
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/MyScene.h
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/GetData.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/GameOverScene.m211"CompileC Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/GameOverScene.o onegame/GameOverScene.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerdba6b459a35eb941^079adf59a35eb941^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/GameOverScene.m0000000000000000^3649"CompileC Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/GameOverScene.o onegame/GameOverScene.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Fang/Desktop/Fill-Answer/fill-fill    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Fang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-generated-files.hmap -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-own-target-headers.hmap -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-all-target-headers.hmap -iquote /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-project-headers.hmap -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/DerivedSources/armv7 -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/DerivedSources -F/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos -include /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/PrecompiledHeaders/Fill\ answer-Prefix-cmluuoakglfgqzdvfrvtsasquqhf/Fill\ answer-Prefix.pch -MMD -MT dependencies -MF /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/GameOverScene.d --serialize-diagnostics /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/GameOverScene.dia -c /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/GameOverScene.m -o /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/GameOverScene.o36"E50F5719-8D0C-45B3-A1BE-35054C2F6AB6-
+b02ED822B-0F2C-4CC9-83AE-695E01937E53
+
+CCompileC Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/GetData.o /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/GetData.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425632601.706220
+e425632601.772635
+r1
+xCompileC
+xBuild/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/Objects-normal/armv7/GetData.o
+x/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/GetData.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/GetData.m
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/GetData.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/GetData.m199"CompileC Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/GetData.o onegame/GetData.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler91edb459a35eb941^643cd259a35eb941^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/GetData.m0000000000000000^3613"CompileC Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/GetData.o onegame/GetData.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Fang/Desktop/Fill-Answer/fill-fill    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Fang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-generated-files.hmap -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-own-target-headers.hmap -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-all-target-headers.hmap -iquote /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-project-headers.hmap -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/DerivedSources/armv7 -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/DerivedSources -F/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos -include /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/PrecompiledHeaders/Fill\ answer-Prefix-cmluuoakglfgqzdvfrvtsasquqhf/Fill\ answer-Prefix.pch -MMD -MT dependencies -MF /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/GetData.d --serialize-diagnostics /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/GetData.dia -c /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/GetData.m -o /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/GetData.o36"A968F096-FD59-4CAD-9A37-2BE8DBF042A4-
+b02ED822B-0F2C-4CC9-83AE-695E01937E53
+
+CCompileC Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/MyScene.o /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/MyScene.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425632601.705533
+e425632601.909819
+r1
+xCompileC
+xBuild/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/Objects-normal/armv7/MyScene.o
+x/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/MyScene.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/MyScene.m
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/MyScene.h
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/GetData.h
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/GameOverScene.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/MyScene.m199"CompileC Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/MyScene.o onegame/MyScene.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler4fceb459a35eb941^25ebe859a35eb941^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/MyScene.m0000000000000000^3613"CompileC Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/MyScene.o onegame/MyScene.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Fang/Desktop/Fill-Answer/fill-fill    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Fang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-generated-files.hmap -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-own-target-headers.hmap -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-all-target-headers.hmap -iquote /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-project-headers.hmap -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/DerivedSources/armv7 -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/DerivedSources -F/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos -include /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/PrecompiledHeaders/Fill\ answer-Prefix-cmluuoakglfgqzdvfrvtsasquqhf/Fill\ answer-Prefix.pch -MMD -MT dependencies -MF /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/MyScene.d --serialize-diagnostics /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/MyScene.dia -c /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/MyScene.m -o /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/MyScene.o36"D8BC4FF0-579F-4FAE-9F55-867E7A391C1D-
+b02ED822B-0F2C-4CC9-83AE-695E01937E53
+
+CCompileC Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/ViewController.o /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425632601.707337
+e425632601.841459
+r1
+xCompileC
+xBuild/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/Objects-normal/armv7/ViewController.o
+x/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/ViewController.m
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/ViewController.h
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/MyScene.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/ViewController.m213"CompileC Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/ViewController.o onegame/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler2634b559a35eb941^116dd759a35eb941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/ViewController.m0000000000000000^3655"CompileC Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/ViewController.o onegame/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Fang/Desktop/Fill-Answer/fill-fill    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Fang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-generated-files.hmap -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-own-target-headers.hmap -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-all-target-headers.hmap -iquote /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-project-headers.hmap -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/DerivedSources/armv7 -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/DerivedSources -F/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos -include /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/PrecompiledHeaders/Fill\ answer-Prefix-cmluuoakglfgqzdvfrvtsasquqhf/Fill\ answer-Prefix.pch -MMD -MT dependencies -MF /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/ViewController.d --serialize-diagnostics /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/ViewController.dia -c /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/ViewController.m -o /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/ViewController.o36"1F91C831-9D97-4B07-816C-66AB873CD59E-
+b02ED822B-0F2C-4CC9-83AE-695E01937E53
+
+CCompileC Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/main.o /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425632601.841728
+e425632601.890471
+r1
+xCompileC
+xBuild/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/Objects-normal/armv7/main.o
+x/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/main.m
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/main.m193"CompileC Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/main.o onegame/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerf699d759a35eb941^c9c6e359a35eb941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/main.m0000000000000000^3595"CompileC Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/main.o onegame/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Fang/Desktop/Fill-Answer/fill-fill    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Fang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-generated-files.hmap -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-own-target-headers.hmap -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-all-target-headers.hmap -iquote /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-project-headers.hmap -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/DerivedSources/armv7 -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/DerivedSources -F/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos -include /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/PrecompiledHeaders/Fill\ answer-Prefix-cmluuoakglfgqzdvfrvtsasquqhf/Fill\ answer-Prefix.pch -MMD -MT dependencies -MF /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/main.dia -c /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/main.m -o /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/main.o36"C6707909-C93F-4473-8407-0A87A567F600-
+b02ED822B-0F2C-4CC9-83AE-695E01937E53
+
+CCompileStoryboard /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Base.lproj/Main.storyboard
+s425632601.959090
+e425632603.239199
+r1
+xCompileStoryboard
+x/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"CompileStoryboard onegame/Base.lproj/Main.storyboard52"CompileStoryboard onegame/Base.lproj/Main.storyboard70b2f559a35eb941^bc3c3d5ba35eb941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Base.lproj/Main.storyboard0000000000000000^794"CompileStoryboard onegame/Base.lproj/Main.storyboard    cd /Users/Fang/Desktop/Fill-Answer/fill-fill    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app/Base.lproj/Main.storyboardc /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Base.lproj/Main.storyboard36"DD8D6B1F-263A-4ADB-901E-C738A34AE8B8-
+b02ED822B-0F2C-4CC9-83AE-695E01937E53
+
+CCopyStringsFile /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app/en.lproj/InfoPlist.strings onegame/en.lproj/InfoPlist.strings
+s425632601.958662
+e425632601.967821
+r1
+xCopyStringsFile
+x/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app/en.lproj/InfoPlist.strings
+xonegame/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy onegame/en.lproj/InfoPlist.strings124"CopyStringsFile Build/Products/Debug-iphoneos/Fill\ answer.app/en.lproj/InfoPlist.strings onegame/en.lproj/InfoPlist.strings2c80f559a35eb941^97caf759a35eb941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/en.lproj/InfoPlist.strings0000000000000000^588"CopyStringsFile Build/Products/Debug-iphoneos/Fill\ answer.app/en.lproj/InfoPlist.strings onegame/en.lproj/InfoPlist.strings    cd /Users/Fang/Desktop/Fill-Answer/fill-fill    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app/en.lproj -- onegame/en.lproj/InfoPlist.strings36"84D5F0AB-CC95-4FA2-B640-BDBE249EC691-
+b02ED822B-0F2C-4CC9-83AE-695E01937E53
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/Fill\ answer.app/ResourceRules.plist
+s425632601.632792
+e425632601.633857
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+xBuild/Products/Debug-iphoneos/Fill answer.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy Build/Products/Debug-iphoneos/Fill answer.app/ResourceRules.plist199"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/Fill\ answer.app/ResourceRules.plist5e13a259a35eb941^3cdaa459a35eb941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill%20answer.app/ResourceRules.plist0034e820deffdf42^760"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist Build/Products/Debug-iphoneos/Fill\ answer.app/ResourceRules.plist    cd /Users/Fang/Desktop/Fill-Answer/fill-fill    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app36"4843E943-BFE8-47BD-9D54-825F06A981A8-
+b02ED822B-0F2C-4CC9-83AE-695E01937E53
+
+CGenerateDSYMFile /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app.dSYM /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app/Fill\ answer
+s425632603.241958
+e425632603.260085
+r1
+xGenerateDSYMFile
+x/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app.dSYM
+x/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app/Fill answer
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Generate /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app.dSYM128"GenerateDSYMFile Build/Products/Debug-iphoneos/Fill\ answer.app.dSYM Build/Products/Debug-iphoneos/Fill\ answer.app/Fill\ answer26fd3d5ba35eb941^b895425ba35eb941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill%20answer.app.dSYM0034e820deffdf42^665"GenerateDSYMFile Build/Products/Debug-iphoneos/Fill\ answer.app.dSYM Build/Products/Debug-iphoneos/Fill\ answer.app/Fill\ answer    cd /Users/Fang/Desktop/Fill-Answer/fill-fill    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app/Fill\ answer -o /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app.dSYM36"AAF2FAD9-3DDE-4B5E-B01A-27BEE067E878-
+b02ED822B-0F2C-4CC9-83AE-695E01937E53
+
+CLd /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app/Fill\ answer normal armv7
+s425632601.910991
+e425632601.957701
+r1
+xLd
+x/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app/Fill answer
+xnormal
+xarmv7
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/Objects-normal/armv7/Fill answer.LinkFileList
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/Objects-normal/armv7/GameOverScene.o
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/Objects-normal/armv7/MyScene.o
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/Objects-normal/armv7/GetData.o
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/Objects-normal/armv7/ViewController.o
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/Objects-normal/armv7/AppDelegate.o
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/Objects-normal/armv7/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/SpriteKit.framework/SpriteKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Link /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app/Fill answer75"Ld Build/Products/Debug-iphoneos/Fill\ answer.app/Fill\ answer normal armv71154e959a35eb941^f54cf759a35eb941^---0#0#1#--1359"Ld Build/Products/Debug-iphoneos/Fill\ answer.app/Fill\ answer normal armv7    cd /Users/Fang/Desktop/Fill-Answer/fill-fill    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos -F/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos -filelist /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/Fill\ answer.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.0 -framework CoreGraphics -framework UIKit -framework SpriteKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Objects-normal/armv7/Fill\ answer_dependency_info.dat -o /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app/Fill\ answer36"E3ADEEF1-51BB-4C7E-8094-2721A82115F9-
+b02ED822B-0F2C-4CC9-83AE-695E01937E53
+
+CProcessInfoPlistFile /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app/Info.plist /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Fill\ answer-Info.plist
+s425632603.239783
+e425632603.241512
+r1
+xProcessInfoPlistFile
+x/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app/Info.plist
+x/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Fill answer-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Process /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Fill answer-Info.plist110"ProcessInfoPlistFile Build/Products/Debug-iphoneos/Fill\ answer.app/Info.plist onegame/Fill\ answer-Info.plista4703d5ba35eb941^41d43d5ba35eb941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Fill%20answer-Info.plist0000000000000000^1018"ProcessInfoPlistFile Build/Products/Debug-iphoneos/Fill\ answer.app/Info.plist onegame/Fill\ answer-Info.plist    cd /Users/Fang/Desktop/Fill-Answer/fill-fill    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Fill\ answer-Info.plist -genpkginfo /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app/ResourceRules.plist -additionalcontentfile /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/assetcatalog_generated_info.plist -o /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app/Info.plist36"49CE7335-B51A-4581-8887-AB01CDF7A6F8-
+b02ED822B-0F2C-4CC9-83AE-695E01937E53
+
+CProcessPCH /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/PrecompiledHeaders/Fill\ answer-Prefix-cmluuoakglfgqzdvfrvtsasquqhf/Fill\ answer-Prefix.pch.pch onegame/Fill\ answer-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425632601.634821
+e425632601.703768
+r1
+xProcessPCH
+x/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/PrecompiledHeaders/Fill answer-Prefix-cmluuoakglfgqzdvfrvtsasquqhf/Fill answer-Prefix.pch.pch
+xonegame/Fill answer-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Fill answer-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile onegame/Fill answer-Prefix.pch227"ProcessPCH Build/Intermediates/PrecompiledHeaders/Fill\ answer-Prefix-cmluuoakglfgqzdvfrvtsasquqhf/Fill\ answer-Prefix.pch.pch onegame/Fill\ answer-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerc2a2a259a35eb941^be2fd259a35eb941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Fill%20answer-Prefix.pch0000000000000000^3531"ProcessPCH Build/Intermediates/PrecompiledHeaders/Fill\ answer-Prefix-cmluuoakglfgqzdvfrvtsasquqhf/Fill\ answer-Prefix.pch.pch onegame/Fill\ answer-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Fang/Desktop/Fill-Answer/fill-fill    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Fang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-generated-files.hmap -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-own-target-headers.hmap -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-all-target-headers.hmap -iquote /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer-project-headers.hmap -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/DerivedSources/armv7 -I/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/DerivedSources -F/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/PrecompiledHeaders/Fill\ answer-Prefix-cmluuoakglfgqzdvfrvtsasquqhf/Fill\ answer-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/PrecompiledHeaders/Fill\ answer-Prefix-cmluuoakglfgqzdvfrvtsasquqhf/Fill\ answer-Prefix.pch.d -c /Users/Fang/Desktop/Fill-Answer/fill-fill/onegame/Fill\ answer-Prefix.pch -o /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/PrecompiledHeaders/Fill\ answer-Prefix-cmluuoakglfgqzdvfrvtsasquqhf/Fill\ answer-Prefix.pch.pch36"EA0A9068-DB32-4C7D-AEB9-6D505124BF2D-
+b02ED822B-0F2C-4CC9-83AE-695E01937E53
+
+CProcessPCH /Users/Fang/Library/Developer/Xcode/DerivedData/Fill_answer-exhkqratfwxwscdyobqtywkfmmuk/Index/PrecompiledHeaders/Fill\ answer-Prefix-ftzpgneanrtjysafttzfxgntbxdy_ast/Fill\ answer-Prefix.pch.pch onegame/Fill\ answer-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer.xcent
+s425632603.262189
+e425632603.263167
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+x/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill answer.build/Debug-iphoneos/Fill answer.build/Fill answer.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection236"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer.xcent236"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer.xcent5a2a435ba35eb941^0760435ba35eb941^---0#0#1#-19%DVTDocumentLocation2@143"file:///Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill%20answer.build/Debug-iphoneos/Fill%20answer.build/Fill%20answer.xcent0034e820deffdf42^794"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer.xcent    cd /Users/Fang/Desktop/Fill-Answer/fill-fill    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Intermediates/Fill\ answer.build/Debug-iphoneos/Fill\ answer.build/Fill\ answer.xcent36"2399E840-BF80-42E2-BCB5-C5E31737B3D4-
+b02ED822B-0F2C-4CC9-83AE-695E01937E53
+
+CProcessProductPackaging /Users/Fang/Library/MobileDevice/Provisioning\ Profiles/E7C3E34D-7C90-491A-B6FB-200D7FD02F6C.mobileprovision /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app/embedded.mobileprovision
+s425632603.260552
+e425632603.261504
+r1
+xProcessProductPackaging
+x/Users/Fang/Library/MobileDevice/Provisioning Profiles/E7C3E34D-7C90-491A-B6FB-200D7FD02F6C.mobileprovision
+x/Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill answer.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection204"ProcessProductPackaging /Users/Fang/Library/MobileDevice/Provisioning\ Profiles/E7C3E34D-7C90-491A-B6FB-200D7FD02F6C.mobileprovision Build/Products/Debug-iphoneos/Fill\ answer.app/embedded.mobileprovision204"ProcessProductPackaging /Users/Fang/Library/MobileDevice/Provisioning\ Profiles/E7C3E34D-7C90-491A-B6FB-200D7FD02F6C.mobileprovision Build/Products/Debug-iphoneos/Fill\ answer.app/embedded.mobileprovisionc6c0425ba35eb941^84f2425ba35eb941^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill%20answer.app/embedded.mobileprovision0034e820deffdf42^704"ProcessProductPackaging /Users/Fang/Library/MobileDevice/Provisioning\ Profiles/E7C3E34D-7C90-491A-B6FB-200D7FD02F6C.mobileprovision Build/Products/Debug-iphoneos/Fill\ answer.app/embedded.mobileprovision    cd /Users/Fang/Desktop/Fill-Answer/fill-fill    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Users/Fang/Library/MobileDevice/Provisioning\ Profiles/E7C3E34D-7C90-491A-B6FB-200D7FD02F6C.mobileprovision -o /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app/embedded.mobileprovision36"411335DB-E9D0-4306-8CC2-DCE5F85A4224-
+b02ED822B-0F2C-4CC9-83AE-695E01937E53
+
+CTouch /Users/Fang/Desktop/Fill-Answer/fill-fill/Build/Products/Debug-iphoneos/Fill\ answer.app
+r0
+

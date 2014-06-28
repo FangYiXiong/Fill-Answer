@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		326E6923195EA3AD00E54A68 /* GCHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 326E6921195EA3AD00E54A68 /* GCHelper.m */; };
 		32B28D0C18A918B00054CD99 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 32B28D0B18A918B00054CD99 /* Foundation.framework */; };
 		32B28D0E18A918B00054CD99 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 32B28D0D18A918B00054CD99 /* CoreGraphics.framework */; };
 		32B28D1018A918B00054CD99 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 32B28D0F18A918B00054CD99 /* UIKit.framework */; };
@@ -38,6 +39,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		326E6921195EA3AD00E54A68 /* GCHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GCHelper.m; sourceTree = "<group>"; };
+		326E6922195EA3AD00E54A68 /* GCHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GCHelper.h; sourceTree = "<group>"; };
 		32B28D0818A918B00054CD99 /* Fill answer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Fill answer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		32B28D0B18A918B00054CD99 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		32B28D0D18A918B00054CD99 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -136,6 +139,8 @@
 				32B28D5A18A924770054CD99 /* GameOverScene.m */,
 				32D14B2818ACC16B00BCAD2F /* GetData.h */,
 				32D14B2918ACC16B00BCAD2F /* GetData.m */,
+				326E6921195EA3AD00E54A68 /* GCHelper.m */,
+				326E6922195EA3AD00E54A68 /* GCHelper.h */,
 				32B28D2A18A918B00054CD99 /* Images.xcassets */,
 				32B28D1418A918B00054CD99 /* Supporting Files */,
 			);
@@ -269,6 +274,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				32B28D5B18A924770054CD99 /* GameOverScene.m in Sources */,
+				326E6923195EA3AD00E54A68 /* GCHelper.m in Sources */,
 				32B28D2718A918B00054CD99 /* MyScene.m in Sources */,
 				32D14B2A18ACC16B00BCAD2F /* GetData.m in Sources */,
 				32B28D2418A918B00054CD99 /* ViewController.m in Sources */,

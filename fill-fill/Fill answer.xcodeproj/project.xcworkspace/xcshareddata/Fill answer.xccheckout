@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2C79638F-5FB9-4A3A-999D-51145BCA4E60</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Fill answer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>008C77AC-1F70-4BE5-8BD4-B3AC6ED83446</key>
+		<string>https://github.com/FangYiXiong/Fill-Answer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>fill-fill/Fill answer.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>008C77AC-1F70-4BE5-8BD4-B3AC6ED83446</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/FangYiXiong/Fill-Answer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>008C77AC-1F70-4BE5-8BD4-B3AC6ED83446</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>008C77AC-1F70-4BE5-8BD4-B3AC6ED83446</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Fill-Answer</string>
+		</dict>
+	</array>
+</dict>
+</plist>

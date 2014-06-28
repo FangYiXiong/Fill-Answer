@@ -9,6 +9,8 @@
 #import "MyScene.h"
 #import "GetData.h"
 #import "GameOverScene.h"
+#import "GCHelper.h"
+
 @interface MyScene () <SKPhysicsContactDelegate>
 @property (nonatomic) SKSpriteNode* player;
 @property (nonatomic) NSTimeInterval lastSpawnTimeInterval;
@@ -27,8 +29,6 @@
     if (self = [super initWithSize:size]) {
         GetData* da = [GetData sharedInstance];
         da.currentsocke =@"0";
-        NSUserDefaults* userdefault = [NSUserDefaults standardUserDefaults];
-        [userdefault setInteger:0 forKey:@"Highestsocke"];
         /* Setup your scene here */
         self.monsters = [NSMutableArray array];
         self.shuxueti = [NSArray array];
@@ -140,7 +140,11 @@
                 [montesToDelete addObject:label];
             }
         }
-        for (SKLabelNode* labe in montesToDelete) {
+		
+		GetData* da;
+		
+        for (SKLabelNode* labe in montesToDelete)
+		{
 			
             [self.monsters removeObject:labe];
             [labe removeFromParent];
@@ -150,13 +154,28 @@
             i = i+1;
             str = [NSString stringWithFormat:@"%d",i];
             self.myLabel.text = str;
-            GetData* da = [GetData sharedInstance];
+			
+            da = [GetData sharedInstance];
             da.currentsocke = self.myLabel.text;
+			
             NSUserDefaults* userdefault = [NSUserDefaults standardUserDefaults];
-            if ([userdefault integerForKey:@"Highestsocke"] < [self.myLabel.text intValue]) {
-                [userdefault setInteger:[self.myLabel.text intValue] forKey:@"Highestsocke"];
+			
+			NSInteger highestsock = [[userdefault objectForKey:@"Highestsocke"] integerValue];
+			
+            if (highestsock < [self.myLabel.text intValue])
+			{
+				[userdefault setObject:self.myLabel.text forKey:@"Highestsocke"];
+				[[GCHelper sharedInstance] reportScore:[self.myLabel.text intValue] forCategory:@"fenshu"];
             }
+
         }
+
+		if ( da.currentsocke == nil && node.name && node.name.length )
+		{
+			SKTransition *reveal = [SKTransition flipHorizontalWithDuration:0.5];
+			SKScene * gameOverScene = [[GameOverScene alloc] initWithSize:self.size won:NO];
+			[self.view presentScene:gameOverScene transition: reveal];
+		}
     }
 }
 @end

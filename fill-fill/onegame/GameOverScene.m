@@ -9,16 +9,13 @@
 #import "GameOverScene.h"
 #import "MyScene.h"
 #import "GetData.h"
+#import "GCHelper.h"
+
 @implementation GameOverScene
 -(id)initWithSize:(CGSize)size won:(BOOL)won {
     if (self = [super initWithSize:size]) {
         self.backgroundColor = [SKColor colorWithRed:1.0 green:1.0 blue:1.0 alpha:1.0];
-//        SKLabelNode *label = [SKLabelNode labelNodeWithFontNamed:@"Chalkduster"];
-//        label.text = @"Game Over";
-//        label.fontSize = 40;
-//        label.fontColor = [SKColor blackColor];
-//        label.position = CGPointMake(self.size.width/2, self.size.height/2+70);
-//        [self addChild:label];
+
         SKLabelNode *label2 = [SKLabelNode labelNodeWithFontNamed:@"Chalkduster"];
         label2.text = @"Start Game";
         label2.fontSize = 40;
@@ -52,9 +49,10 @@
         
         NSUserDefaults* userdefault = [NSUserDefaults standardUserDefaults];
         SKLabelNode *Highest = [SKLabelNode labelNodeWithFontNamed:@"Chalkduster"];
-        NSString* str = [NSString stringWithFormat:@"%d",[userdefault integerForKey:@"Highestsocke"]];
-        int i = [str intValue];
-        str = [NSString stringWithFormat:@"%d",i];
+		
+		NSString * str = [NSString stringWithFormat:@"%@",[userdefault objectForKey:@"Highestsocke"]];
+		[[GCHelper sharedInstance] retrieveTopTenScores];
+
         Highest.text = str;
         Highest.fontSize = 20;
         Highest.fontColor = [SKColor blackColor];
